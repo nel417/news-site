@@ -1,3 +1,7 @@
 import React from "react";
-
-export const App = () => <p>HEY!</p>;
+import {
+	StoriesContainer
+} from "./containers/StoriesContainer";
+export const App = () => {
+	return <StoriesContainer / > ;
+};
