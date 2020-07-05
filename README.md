@@ -1,3 +1,23 @@
+# Hacker News Reader
+
+News app that gathers stories from the Hacker News API. Features infinite scroll that loads 30 stories at a time and integrated tests that make sure a mock post and API are passing.
+
+## What I learned from this project
+* Infinite scroll and debouncing for smooth scrolling
+* Running unit tests with React Test Library + Jest to test a mock post and the API I'm calling
+* Axios and async requests
+* A better understanding of styled-components
+* App structure/architecture.           
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
