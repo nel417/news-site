@@ -3,10 +3,10 @@
 News app that gathers stories from the Hacker News API. Features infinite scroll that loads 30 stories at a time and integrated tests that make sure a mock post and API are passing.
 
 ## What I learned from this project
-* Infinite scroll and debouncing for smooth scrolling
-* Running unit tests with React Test Library + Jest to test a mock post and the API I'm calling
-* Axios and async requests
-* A better understanding of styled-components
+* Infinite scroll and debouncing for smooth scrolling.
+* Running unit tests with React Test Library + Jest to test a mock post and the API I'm calling.
+* Axios and async requests.
+* A better understanding of styled-components.
 * App structure/architecture.           
 
 ## Contributing
