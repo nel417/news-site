@@ -37,5 +37,3 @@ export const useInfiniteScroll = () => {
 
   return { count };
 };
-
-console.log("test!")
